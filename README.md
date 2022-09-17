@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Dustin 🌱
 
 ![Dustin Apodaca GitHub Banner](./assets/Dustin%20GitHub%20Banner.jpg)
 
