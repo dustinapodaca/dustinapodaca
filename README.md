@@ -1,6 +1,6 @@
 ### Hello there, I'm Dustin. 🌱
 
-![Dustin Apodaca GitHub Banner](./assets/Dustin%20GitHub%20Banner2.jpg)
+![Dustin Apodaca GitHub Banner](./assets/Dustin-GH-Banner2.jpg)
 
 <!--
 **dustinapodaca/dustinapodaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
