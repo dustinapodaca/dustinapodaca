@@ -2,9 +2,11 @@
 
 ![Dustin Apodaca GitHub Banner](./assets/Dustin-GH-Banner3-1.webp)
 
-    I'm Dustin! I’m a father of one, a lover of creative energy and design, and someone who’s been there and back again in my personal journey- seeing what works in life and what doesn’t.
+```html
+  I'm Dustin! I’m a father of one, a lover of creative energy and design, and someone who’s been there and back again in my personal journey- seeing what works in life and what doesn’t.
 
-    I'm a Full-Stack Engineer && Designer with a focus on developing applications and technologies using TypeScript, React, and React-Native. My passion lies in ensuring that applications are not only efficient- but creative and beautifully designed.
+  I'm a Full-Stack Engineer && Designer with a focus on developing applications and technologies using TypeScript, React, and React-Native. My passion lies in ensuring that applications are not only efficient- but creative and beautifully designed.
+```
 
 ---
 <br>
@@ -14,11 +16,11 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-007d79?logo=node.js&logoColor=fff&style=flat-square)
 ![React Badge](https://img.shields.io/badge/React-007d79?logo=react&logoColor=000&style=flat-square)
 ![React Native Badge](https://img.shields.io/badge/React_Native-007d79?logo=react&logoColor=000&style=flat-square)
-![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat-square)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff&style=flat-square)
-![Gatsby Badge](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=fff&style=flat-square)
-![SCSS Badge](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=fff&style=flat-square)
-![TailwindCSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat-square)
+![Redux Badge](https://img.shields.io/badge/Redux-007d79?logo=redux&logoColor=fff&style=flat-square)
+![Next.js Badge](https://img.shields.io/badge/Next.js-007d79?logo=next.js&logoColor=fff&style=flat-square)
+![Gatsby Badge](https://img.shields.io/badge/Gatsby-007d79?logo=gatsby&logoColor=fff&style=flat-square)
+![SCSS Badge](https://img.shields.io/badge/SCSS-007d79?logo=sass&logoColor=fff&style=flat-square)
+![TailwindCSS Badge](https://img.shields.io/badge/Tailwind_CSS-007d79?logo=tailwind-css&logoColor=fff&style=flat-square)
 ![PostCSS Badge](https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=fff&style=flat-square)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square)
 ![Express.js Badge](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat-square)
@@ -57,7 +59,4 @@
 ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat-square)
 ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat-square)
 
-<br>
-
-### More About Me: 
 
