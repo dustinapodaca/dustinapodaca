@@ -5,12 +5,12 @@ Hey there, 🌱
 ![Dustin Apodaca GitHub Banner](./assets/Dustin-GH-Banner3-1.webp)
 
 ---
-<div style="max-width:860">
-<pre style="font-family:Andale Mono;overflow-wrap: break-word">
+<div style="max-width:860;overflow:auto">
+  <pre style="font-family:Andale Mono;overflow-wrap:break-word;overflow-x: auto;">
 I'm Dustin! I’m a father of one, a lover of creative energy and design, and someone who’s been there and back again in my personal journey- seeing what works in life and what doesn’t.
-  <br>
+    <br>
 I'm a Full-Stack Engineer && Designer with a focus on developing applications and technologies using TypeScript, React, and React-Native. My passion lies in ensuring that applications are not only efficient- but creative and beautifully designed.
-</pre>
+  </pre>
 </div>
 
 ---
@@ -43,8 +43,8 @@ I'm a Full-Stack Engineer && Designer with a focus on developing applications an
 ![AWS DynamoDB Badge](https://img.shields.io/badge/AWS_DynamoDB-856649?logo=amazon-aws&logoColor=fff&style=flat-square)
 ![AWS Amplify Badge](https://img.shields.io/badge/AWS_Amplify-856649?logo=amazon-aws&logoColor=fff&style=flat-square)
 ![AWS Gateway Badge](https://img.shields.io/badge/AWS_Gateway-856649?logo=amazon-aws&logoColor=fff&style=flat-square)
+![React Testing Library Badge](https://img.shields.io/badge/React_Testing_Library-856649?logo=react&logoColor=fff&style=flat-square)
 ![Jest Badge](https://img.shields.io/badge/Jest-504943?logo=jest&logoColor=fff&style=flat-square)
-![React Testing Library Badge](https://img.shields.io/badge/React_Testing_Library-504943?logo=react&logoColor=fff&style=flat-square)
 ![ESLint Badge](https://img.shields.io/badge/ESLint-504943?logo=eslint&logoColor=fff&style=flat-square)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-504943?logo=heroku&logoColor=fff&style=flat-square)
 ![Netlify Badge](https://img.shields.io/badge/Netlify-504943?logo=netlify&logoColor=fff&style=flat-square)
