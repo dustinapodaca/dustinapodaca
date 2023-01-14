@@ -5,11 +5,13 @@ Hey there, 🌱
 ![Dustin Apodaca GitHub Banner](./assets/Dustin-GH-Banner3-1.webp)
 
 ---
-<pre style="font-family:Andale Mono">
-I'm Dustin! I’m a father of one, a lover of creative energy and design, and someone who’s been there and back again in my personal journey- seeing what works in life and what doesn’t.
-
-I'm a Full-Stack Engineer && Designer with a focus on developing applications and technologies using TypeScript, React, and React-Native. My passion lies in ensuring that applications are not only efficient- but creative and beautifully designed.
-</pre>
+<div style="max-width:860;overflow-wrap: break-word">
+  <pre style="font-family:Andale Mono">
+    I'm Dustin! I’m a father of one, a lover of creative energy and design, and someone who’s been there and back again in my personal journey- seeing what works in life and what doesn’t.
+    <br>
+    I'm a Full-Stack Engineer && Designer with a focus on developing applications and technologies using TypeScript, React, and React-Native. My passion lies in ensuring that applications are not only efficient- but creative and beautifully designed.
+  </pre>
+</div>
 
 ---
 <br>
@@ -48,14 +50,14 @@ I'm a Full-Stack Engineer && Designer with a focus on developing applications an
 ![Netlify Badge](https://img.shields.io/badge/Netlify-504943?logo=netlify&logoColor=fff&style=flat-square)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-504943?logo=vercel&logoColor=fff&style=flat-square)
 
-![VS Code Badge](https://img.shields.io/badge/VS_Code-202e2e?logo=visual-studio-code&logoColor=fff&style=flat-square)
-![Figma Badge](https://img.shields.io/badge/Figma-202e2e?logo=figma&logoColor=fff&style=flat-square)
-![Adobe XD Badge](https://img.shields.io/badge/Adobe_XD-202e2e?logo=adobe-xd&logoColor=fff&style=flat-square)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe_Photoshop-202e2e?logo=adobe-photoshop&logoColor=fff&style=flat-square)
-![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe_Illustrator-202e2e?logo=adobe-illustrator&logoColor=fff&style=flat-square)
-![Adobe InDesign Badge](https://img.shields.io/badge/Adobe_InDesign-202e2e?logo=adobe-indesign&logoColor=fff&style=flat-square)
-![Adobe Lightroom Badge](https://img.shields.io/badge/Adobe_Lightroom-202e2e?logo=adobe-lightroom&logoColor=fff&style=flat-square)
-![WordPress Badge](https://img.shields.io/badge/WordPress-202e2e?logo=wordpress&logoColor=fff&style=flat-square)
+![VS Code Badge](https://img.shields.io/badge/VS_Code-213130?logo=visual-studio-code&logoColor=fff&style=flat-square)
+![Figma Badge](https://img.shields.io/badge/Figma-213130?logo=figma&logoColor=fff&style=flat-square)
+![Adobe XD Badge](https://img.shields.io/badge/Adobe_XD-213130?logo=adobe-xd&logoColor=fff&style=flat-square)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe_Photoshop-213130?logo=adobe-photoshop&logoColor=fff&style=flat-square)
+![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe_Illustrator-213130?logo=adobe-illustrator&logoColor=fff&style=flat-square)
+![Adobe InDesign Badge](https://img.shields.io/badge/Adobe_InDesign-213130?logo=adobe-indesign&logoColor=fff&style=flat-square)
+![Adobe Lightroom Badge](https://img.shields.io/badge/Adobe_Lightroom-213130?logo=adobe-lightroom&logoColor=fff&style=flat-square)
+![WordPress Badge](https://img.shields.io/badge/WordPress-213130?logo=wordpress&logoColor=fff&style=flat-square)
 ![filezilla Badge](https://img.shields.io/badge/FileZilla-063937?logo=filezilla&logoColor=fff&style=flat-square)
 ![Git Badge](https://img.shields.io/badge/Git-063937?logo=git&logoColor=fff&style=flat-square)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-063937?logo=github&logoColor=fff&style=flat-square)
