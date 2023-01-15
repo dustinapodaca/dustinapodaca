@@ -63,10 +63,16 @@ I'm a Full-Stack Engineer && Designer with a focus on developing applications an
   <img src="https://img.shields.io/badge/Adobe_Lightroom-213130?logo=adobe-lightroom&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #213130;">
   <img src="https://img.shields.io/badge/WordPress-063937?logo=wordpress&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
   <img src="https://img.shields.io/badge/FileZilla-063937?logo=filezilla&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
+  <img src="https://img.shields.io/badge/Google_Analytics-063937?logo=google-analytics&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
+  <img src="https://img.shields.io/badge/Google_Search_Console-063937?logo=google-search-console&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
+  <img src="https://img.shields.io/badge/Google_My_Business-063937?logo=google-my-business&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
   <img src="https://img.shields.io/badge/Git-063937?logo=git&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
   <img src="https://img.shields.io/badge/GitHub-063937?logo=github&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
   <img src="https://img.shields.io/badge/Trello-063937?logo=trello&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
+  <img src="https://img.shields.io/badge/Asana-063937?logo=asana&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
   <img src="https://img.shields.io/badge/Slack-063937?logo=slack&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
 </div>
+
+
 
 ---
