@@ -14,7 +14,7 @@ I'm a Full-Stack Engineer && Designer with a focus on developing applications an
   <!-- </pre>
 </div> -->
 ---
-<div style="text-align:center;">
+<div style="text-align:center; margin:auto;">
   <img src="https://img.shields.io/badge/TypeScript-007d79?logo=typescript&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
   <img src="https://img.shields.io/badge/JavaScript-007d79?logo=javascript&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
   <img src="https://img.shields.io/badge/CSS3-007d79?logo=css3&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
