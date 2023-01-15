@@ -39,6 +39,7 @@ I'm a Full-Stack Engineer && Designer with a focus on developing applications an
   <img src="https://img.shields.io/badge/GraphQL-054545?logo=graphql&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
   <img src="https://img.shields.io/badge/Apollo_Server-054545?logo=apollo-graphql&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
   <img src="https://img.shields.io/badge/Socket.io-054545?logo=socket.io&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
+  <img src="https://img.shields.io/badge/JSON_Web_Tokens-054545?logo=json-web-tokens&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
   <img src="https://img.shields.io/badge/AWS-856649?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
   <img src="https://img.shields.io/badge/AWS_S3-856649?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
   <img src="https://img.shields.io/badge/AWS_EC2-856649?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
