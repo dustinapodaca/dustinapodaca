@@ -29,8 +29,7 @@ I'm a Full-Stack Engineer && Designer with a focus on developing applications an
   <img src="https://img.shields.io/badge/Gatsby-007d79?logo=gatsby&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
   <img src="https://img.shields.io/badge/SCSS-007d79?logo=sass&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
   <img src="https://img.shields.io/badge/Tailwind_CSS-007d79?logo=tailwind-css&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
-  <img src="https://img.shields.io/badge/PostCSS-054545?logo=postcss&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
-  <img src="https://img.shields.io/badge/Bootstrap-054545?logo=bootstrap&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
+  <img src="https://img.shields.io/badge/Bootstrap-007d79?logo=bootstrap&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
   <img src="https://img.shields.io/badge/Express.js-054545?logo=express&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
   <img src="https://img.shields.io/badge/MongoDB-054545?logo=mongodb&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
   <img src="https://img.shields.io/badge/SQL-054545?logo=postgresql&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
@@ -62,7 +61,7 @@ I'm a Full-Stack Engineer && Designer with a focus on developing applications an
   <img src="https://img.shields.io/badge/Adobe_Illustrator-213130?logo=adobe-illustrator&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #213130;">
   <img src="https://img.shields.io/badge/Adobe_InDesign-213130?logo=adobe-indesign&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #213130;">
   <img src="https://img.shields.io/badge/Adobe_Lightroom-213130?logo=adobe-lightroom&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #213130;">
-  <img src="https://img.shields.io/badge/WordPress-213130?logo=wordpress&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #213130;">
+  <img src="https://img.shields.io/badge/WordPress-063937?logo=wordpress&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
   <img src="https://img.shields.io/badge/FileZilla-063937?logo=filezilla&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
   <img src="https://img.shields.io/badge/Git-063937?logo=git&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
   <img src="https://img.shields.io/badge/GitHub-063937?logo=github&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
