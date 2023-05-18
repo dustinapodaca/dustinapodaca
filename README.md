@@ -2,14 +2,14 @@
 Hey there, 🌱
 </pre>
 
-![Dustin Apodaca GitHub Banner](./assets/Dustin-GH-Banner3-1.webp)
+![Dustin Apodaca GitHub Banner](./assets/Dustin-GH-BannerNEW-4.webp)
 
 ---
 <!-- <div style="max-width:860;overflow:auto">
   <pre style="font-family:Andale Mono;overflow-wrap:break-word;overflow-x: auto;"> -->
-I'm Dustin! I'm a Full-Stack Engineer && Designer with a focus on developing applications and technologies using TypeScript, React, React-Native, and RESTful services. My passion lies in ensuring that applications are not only efficient- but creative and beautifully designed.
+I'm Dustin Apodaca, a full-stack software engineer with over a decade of experience in design and customer service.
 
-I'm a passionate advocate for expressing creative energy and finding your flow through all facets of design. Whether that be creating an efficiently structured back-end server or UI where every last detail has been poured over, I'm always looking for ways to improve and grow.
+As a graphic designer turned developer, I infuse my expertise into every aspect of application development, creating visually stunning and user-friendly experiences. With proficiency in back-end integration, I can support the development of full-stack applications in agile environments. My commitment to ongoing learning and collaboration has allowed me to excel in delivering clean and efficient applications that are intuitive, pixel perfect, and accessible to all users.
     <!-- <br> -->
     
 
@@ -29,6 +29,7 @@ I'm a passionate advocate for expressing creative energy and finding your flow t
   <img src="https://img.shields.io/badge/Expo-007d79?logo=expo&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
   <img src="https://img.shields.io/badge/Next.js-007d79?logo=next.js&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
   <img src="https://img.shields.io/badge/Gatsby-007d79?logo=gatsby&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
+  <img src="https://img.shields.io/badge/Angular-007d79?logo=angular&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">  
   <img src="https://img.shields.io/badge/SCSS-007d79?logo=sass&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
   <img src="https://img.shields.io/badge/Tailwind_CSS-007d79?logo=tailwind-css&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
   <img src="https://img.shields.io/badge/Bootstrap-007d79?logo=bootstrap&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
