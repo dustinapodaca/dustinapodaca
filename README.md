@@ -51,11 +51,11 @@ As a graphic designer turned developer, I infuse my expertise into every aspect 
   <img src="https://img.shields.io/badge/AWS_Amplify-856649?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
   <img src="https://img.shields.io/badge/AWS_Gateway-856649?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
   <img src="https://img.shields.io/badge/React_Testing_Library-856649?logo=react&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/Jest-504943?logo=jest&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #504943;">
-  <img src="https://img.shields.io/badge/ESLint-504943?logo=eslint&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #504943;">
-  <img src="https://img.shields.io/badge/Heroku-504943?logo=heroku&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #504943;">
-  <img src="https://img.shields.io/badge/Netlify-504943?logo=netlify&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #504943;">
-  <img src="https://img.shields.io/badge/Vercel-504943?logo=vercel&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #504943;">
+  <img src="https://img.shields.io/badge/Jest-856649?logo=jest&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
+  <img src="https://img.shields.io/badge/ESLint-856649?logo=eslint&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
+  <img src="https://img.shields.io/badge/Heroku-856649?logo=heroku&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
+  <img src="https://img.shields.io/badge/Netlify-856649?logo=netlify&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
+  <img src="https://img.shields.io/badge/Vercel-856649?logo=vercel&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
   <br>
   <br>
   <img src="https://img.shields.io/badge/VS_Code-213130?logo=visual-studio-code&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #213130;">
