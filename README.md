@@ -43,19 +43,19 @@ As a graphic designer turned developer, I infuse my expertise into every aspect 
   <img src="https://img.shields.io/badge/Apollo_Server-054545?logo=apollo-graphql&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
   <img src="https://img.shields.io/badge/Socket.io-054545?logo=socket.io&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
   <img src="https://img.shields.io/badge/JSON_Web_Tokens-054545?logo=json-web-tokens&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #054545;">
-  <img src="https://img.shields.io/badge/AWS-856649?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/AWS_S3-856649?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/AWS_EC2-856649?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/AWS_Lambda-856649?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/AWS_DynamoDB-856649?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/AWS_Amplify-856649?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/AWS_Gateway-856649?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/React_Testing_Library-856649?logo=react&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/Jest-856649?logo=jest&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/ESLint-856649?logo=eslint&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/Heroku-856649?logo=heroku&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/Netlify-856649?logo=netlify&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
-  <img src="https://img.shields.io/badge/Vercel-856649?logo=vercel&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #856649;">
+  <img src="https://img.shields.io/badge/AWS-ac504d?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
+  <img src="https://img.shields.io/badge/AWS_S3-ac504d?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
+  <img src="https://img.shields.io/badge/AWS_EC2-ac504d?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
+  <img src="https://img.shields.io/badge/AWS_Lambda-ac504d?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
+  <img src="https://img.shields.io/badge/AWS_DynamoDB-ac504d?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
+  <img src="https://img.shields.io/badge/AWS_Amplify-ac504d?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
+  <img src="https://img.shields.io/badge/AWS_Gateway-ac504d?logo=amazon-aws&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
+  <img src="https://img.shields.io/badge/React_Testing_Library-ac504d?logo=react&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
+  <img src="https://img.shields.io/badge/Jest-ac504d?logo=jest&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
+  <img src="https://img.shields.io/badge/ESLint-ac504d?logo=eslint&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
+  <img src="https://img.shields.io/badge/Heroku-ac504d?logo=heroku&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
+  <img src="https://img.shields.io/badge/Netlify-ac504d?logo=netlify&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
+  <img src="https://img.shields.io/badge/Vercel-ac504d?logo=vercel&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #ac504d;">
   <br>
   <br>
   <img src="https://img.shields.io/badge/VS_Code-213130?logo=visual-studio-code&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #213130;">
