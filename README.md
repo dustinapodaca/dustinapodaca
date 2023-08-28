@@ -2,45 +2,31 @@
 Hey there, 🌱
 </pre>
 
-![Dustin Apodaca GitHub Banner](./assets/LN2023Q42-4.jpg)
-
----
+![Dustin Apodaca GitHub Banner](./assets/LN2023.jpg)
 ## About Me
-As a graphic designer turned software engineer, I have a unique perspective on integrating design principles into application development. My expertise includes developing applications using modern UI frameworks, rapidly learning new languages and technologies, and supporting the development of full-stack applications in agile environments. My commitment to ongoing learning and collaboration enables me to deliver clean, efficient, and accessible applications.
+My evolution from a graphic designer to a software engineer has cultivated my innate strengths in UI/UX, leading me to identify as a UI/UX Software Engineer. I excel in combining intricate logic with user-friendly interfaces and am enthusiastic about being part of teams that work hand-in-hand with designers to blend logic and design, guaranteeing a smooth and engaging user experience.
+
+Although my expertise is in UI, I also possess a strong foundation in backend server-side technologies, have experience working with relational databases, writing SQL queries, and managing server-side scripting, giving me a well-rounded understanding of full-stack development in agile environments.
 
 ## Tech Stack
 - **Languages**: JavaScript, TypeScript, CSS3, HTML5, SQL, Python, Zsh
-- **Frameworks & Libraries**: Node.js, React.js, Redux, Angular, Flutter, React Native, Expo, Clerk, Next.js, Remix, Bootstrap, TailwindCSS, SCSS, Express.js, Rails
-- **Databases**: MongoDB, PostgreSQL, SQLite, GraphQL, Prisma, Sequelize, Supabase, Socket.io
-- **Testing & Deployment**: Jest, React Testing Library, AWS, Azure, CI/CD
+- **Frameworks & Libraries**: Node.js, Next.js, Remix, React.js, Redux, Angular, React Native, Expo, Flutter, Clerk, TailwindCSS, Bootstrap, SCSS, Express.js, Apollo Server, Socket.io
+- **Databases**: MongoDB, PostgreSQL, DynamoDB, SQLite, GraphQL, Prisma, Sequelize, Supabase
+- **Testing & Deployment**: Jest, React Testing Library, Android Studio, Xcode, AWS, Azure, CI/CD
 - **Design**: Figma, Adobe Photoshop, Lightroom, Illustrator, WordPress, Framer
 
 ## Projects
-- [Lashed.Ink SPA](https://github.com/dustinapodaca/lashedink): A responsive SPA for Lashed.Ink, a Denver-based permanent makeup studio.
+- [Lashed.Ink SPA](http://lashedink.netlify.app): A responsive SPA for Lashed.Ink, a Denver-based permanent makeup studio.
+- [Ares Security SPA](https://aressecurity.co): A dynamic SPA for Ares Security LLC, a Colorado Springs-based security company.
 - [DreamHub](https://github.com/DJRMZ/DreamHub): A mobile application that allows users to track their sleep patterns and dreams using AI image generation and calendar history.
-- [Ares Security SPA](https://github.com/dustinapodaca/ares-security): A dynamic SPA for Ares Security LLC, a Colorado Springs-based security company.
 
 ## Let's Connect!
 - 🌐 [Portfolio](https://dustinapodaca.dev)
 - 💼 [LinkedIn](https://linkedin.com/in/dustinapodaca)
 - ✉️ [Email](mailto:dustinapodaca@gmail.com)
-
-
-
-
-<!-- <div style="max-width:860;overflow:auto">
-  <pre style="font-family:Andale Mono;overflow-wrap:break-word;overflow-x: auto;"> -->
-<!-- I'm Dustin Apodaca, a full-stack software engineer with over a decade of experience in design and customer service.
-
-As a graphic designer turned developer, I infuse my expertise into every aspect of application development, creating visually stunning and user-friendly experiences. With proficiency in back-end integration, I can support the development of full-stack applications in agile environments. My commitment to ongoing learning and collaboration has allowed me to excel in delivering clean and efficient applications that are intuitive, pixel perfect, and accessible to all users. -->
-    <!-- <br> -->
-    
-
-  <!-- </pre>
-</div> -->
 ---
 
-<div style="text-align:center; margin:auto;">
+<!-- <div style="text-align:center; margin:auto;">
   <img src="https://img.shields.io/badge/TypeScript-007d79?logo=typescript&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
   <img src="https://img.shields.io/badge/JavaScript-007d79?logo=javascript&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
   <img src="https://img.shields.io/badge/CSS3-007d79?logo=css3&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #007d79;">
@@ -98,8 +84,4 @@ As a graphic designer turned developer, I infuse my expertise into every aspect 
   <img src="https://img.shields.io/badge/Trello-063937?logo=trello&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
   <img src="https://img.shields.io/badge/Asana-063937?logo=asana&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
   <img src="https://img.shields.io/badge/Slack-063937?logo=slack&logoColor=fff&style=flat-square" style="border-radius:20px; border: 2px solid #063937;">
-</div>
-
-
-
----
+</div> -->
