@@ -2,14 +2,37 @@
 Hey there, 🌱
 </pre>
 
-![Dustin Apodaca GitHub Banner](./assets/Dustin-GH-BannerNEW-4.webp)
+![Dustin Apodaca GitHub Banner](./assets/LN2023Q42-4.jpg)
 
 ---
+## About Me
+As a graphic designer turned software engineer, I have a unique perspective on integrating design principles into application development. My expertise includes developing applications using modern UI frameworks, rapidly learning new languages and technologies, and supporting the development of full-stack applications in agile environments. My commitment to ongoing learning and collaboration enables me to deliver clean, efficient, and accessible applications.
+
+## Tech Stack
+- **Languages**: JavaScript, TypeScript, CSS3, HTML5, SQL, Python, Zsh
+- **Frameworks & Libraries**: Node.js, React.js, Redux, Angular, Flutter, React Native, Expo, Clerk, Next.js, Remix, Bootstrap, TailwindCSS, SCSS, Express.js, Rails
+- **Databases**: MongoDB, PostgreSQL, SQLite, GraphQL, Prisma, Sequelize, Supabase, Socket.io
+- **Testing & Deployment**: Jest, React Testing Library, AWS, Azure, CI/CD
+- **Design**: Figma, Adobe Photoshop, Lightroom, Illustrator, WordPress, Framer
+
+## Projects
+- [Lashed.Ink SPA](https://github.com/dustinapodaca/lashedink): A responsive SPA for Lashed.Ink, a Denver-based permanent makeup studio.
+- [DreamHub](https://github.com/DJRMZ/DreamHub): A mobile application that allows users to track their sleep patterns and dreams using AI image generation and calendar history.
+- [Ares Security SPA](https://github.com/dustinapodaca/ares-security): A dynamic SPA for Ares Security LLC, a Colorado Springs-based security company.
+
+## Let's Connect!
+- 🌐 [Portfolio](https://dustinapodaca.dev)
+- 💼 [LinkedIn](https://linkedin.com/in/dustinapodaca)
+- ✉️ [Email](mailto:dustinapodaca@gmail.com)
+
+
+
+
 <!-- <div style="max-width:860;overflow:auto">
   <pre style="font-family:Andale Mono;overflow-wrap:break-word;overflow-x: auto;"> -->
-I'm Dustin Apodaca, a full-stack software engineer with over a decade of experience in design and customer service.
+<!-- I'm Dustin Apodaca, a full-stack software engineer with over a decade of experience in design and customer service.
 
-As a graphic designer turned developer, I infuse my expertise into every aspect of application development, creating visually stunning and user-friendly experiences. With proficiency in back-end integration, I can support the development of full-stack applications in agile environments. My commitment to ongoing learning and collaboration has allowed me to excel in delivering clean and efficient applications that are intuitive, pixel perfect, and accessible to all users.
+As a graphic designer turned developer, I infuse my expertise into every aspect of application development, creating visually stunning and user-friendly experiences. With proficiency in back-end integration, I can support the development of full-stack applications in agile environments. My commitment to ongoing learning and collaboration has allowed me to excel in delivering clean and efficient applications that are intuitive, pixel perfect, and accessible to all users. -->
     <!-- <br> -->
     
 
