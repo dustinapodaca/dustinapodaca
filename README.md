@@ -2,7 +2,7 @@
 Hey there, 🌱
 </pre>
 
-![Dustin Apodaca GitHub Banner](./assets/LN2023.jpg)
+![Dustin Apodaca GitHub Banner](./assets/LNBanner2024.jpg)
 ## About Me
 My evolution from a graphic designer to a software engineer has cultivated my innate strengths in UI/UX, leading me to identify as a UI/UX Software Engineer. I excel in combining intricate logic with user-friendly interfaces and am enthusiastic about being part of teams that work hand-in-hand with designers to blend logic and design, guaranteeing a smooth and engaging user experience.
 
@@ -10,7 +10,7 @@ Although my expertise is in UI, I also possess a strong foundation in backend se
 
 ## Tech Stack
 - **Languages**: JavaScript, TypeScript, CSS3, HTML5, SQL, Python, Zsh
-- **Frameworks & Libraries**: Node.js, Next.js, Remix, React.js, Redux, Angular, React Native, Expo, Flutter, Clerk, TailwindCSS, Bootstrap, SCSS, Express.js, Apollo Server, Socket.io
+- **Frameworks & Libraries**: Node.js, Next.js, Remix, React.js, Redux, Angular, React Native, Expo, Clerk, TailwindCSS, Bootstrap, SCSS, Express.js, Apollo Server, Socket.io
 - **Databases**: MongoDB, PostgreSQL, DynamoDB, SQLite, GraphQL, Prisma, Sequelize, Supabase
 - **Testing & Deployment**: Jest, React Testing Library, Android Studio, Xcode, AWS, Azure, CI/CD
 - **Design**: Figma, Adobe Photoshop, Lightroom, Illustrator, WordPress, Framer
