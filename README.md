@@ -2,7 +2,7 @@
 Hey there, 🌱
 </pre>
 
-![Dustin Apodaca GitHub Banner](./assets/LNBanner2024.jpg)
+![Dustin Apodaca GitHub Banner](./assets/LNBanner2024-2.jpg)
 ## About Me
 My evolution from a graphic designer to a software engineer has cultivated my innate strengths in UI/UX, leading me to identify as a UI/UX Software Engineer. I excel in combining intricate logic with user-friendly interfaces and am enthusiastic about being part of teams that work hand-in-hand with designers to blend logic and design, guaranteeing a smooth and engaging user experience.
 
